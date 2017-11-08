@@ -48,7 +48,7 @@
 ###  reduce() 方法接收一个函数作为累加器，数组中的每个值（从左到右）开始缩减，最终计算为一个值。
 ###  ....这种语法叫做扩展运算符，可以插入到对应的位置里。
 
-### let numbers = [4,6,3,8]; || let array = [1,2,...numbers,5,7];
+### let numbers = [4,6,3,8]; || let array = [1,2,...numbers,5,7];n
 =======
 # ES6 --ECMAScript 6  lesson-2
 
@@ -124,7 +124,7 @@
 ###     	})	
 ###     })
 ###     .catch((err) => {
-###     	console.log("error: 请求失败！");
+###     	console.log("error: 请求失败！");n
 ###     })
 
 >>>>>>> .merge_file_J0NGN4
@@ -138,6 +138,6 @@
 
 ### 新变量类型 let / const / 箭头函数 / 扩展操作符 / 类 / 继承 
 
-### Promise实例化对象 fetch(url) 代替ajax请求..
+### Promise实例化对象 fetch(url) 代替ajax请求.n
 >>>>>>> f0db4e884003cd73de40d28330321f7d5c76b71e
 
