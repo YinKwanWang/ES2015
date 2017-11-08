@@ -141,5 +141,5 @@
 ### Promise实例化对象 fetch(url) 代替ajax请求.n
 
 >>>>>>> f0db4e884003cd73de40d28330321f7d5c76b71e
-Creating a new branch is quick & simple.
+Creating a new branch is quick & simple
 
