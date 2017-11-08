@@ -75,5 +75,5 @@
 ###     	console.log("error: 请求失败！");
 ###     })
 
-Creating a new branch is quick aNd simple.
+Creating a new branch is quick aNd simple
 
