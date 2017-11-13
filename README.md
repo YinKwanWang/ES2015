@@ -127,6 +127,7 @@
 ###     	console.log("error: 请求失败！");n
 ###     })
 
+<<<<<<< .merge_file_dej73W
 >>>>>>> .merge_file_J0NGN4
 
 
@@ -142,4 +143,8 @@
 
 >>>>>>> f0db4e884003cd73de40d28330321f7d5c76b71e
 Creating a new branch is quick & simple
+=======
+Creating a new branch is quick aNd simple
+>>>>>>> .merge_file_UHSgPA
 
+Creating a new branch is quick AND simple
